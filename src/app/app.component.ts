@@ -1,4 +1,13 @@
-import { Component } from '@angular/core';
+import { Component,OnInit } from '@angular/core';
+
+// import {Observable} from "rxjs/Observable";
+// import {HttpClient} from '@angular/common/http'
+
+
+// interface Course{
+//   description:string;
+//   longdescription:string;
+// }
 
 @Component({
   selector: 'app-root',
